@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, Kotlin, JavaScript, SQL
+**Languages:** Python, Java, Kotlin, JavaScript, SQL,Firbase
 
 **AI/ML:** TensorFlow, Scikit-learn, XGBoost, Pandas
 
